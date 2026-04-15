@@ -1,4 +1,1 @@
-![GitHub Screenshot Demo](./images/Network.png)
-
-
-![GitHub Screenshot Demo](./images/ipaddress.png)
+![gns](./images/Network.png)
