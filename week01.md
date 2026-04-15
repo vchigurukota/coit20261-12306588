@@ -1,1 +1,1 @@
-![gns](./images/"C:\Users\yashw\OneDrive\Desktop\GNS-Intro-12305688-network.png")
+"C:\Users\yashw\OneDrive\Desktop\GNS-Intro-12305688-network.png"
