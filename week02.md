@@ -1,1 +1,1 @@
-![gns](./images/images/Setting-IP-12305688-network.png.png)
+![gns](./images/images/Setting-IP-12305688-host3.png)
