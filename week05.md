@@ -2,4 +2,4 @@
 ![gns](./images/vlan-basics-12305688-network.png)
 ![gns](./images/vlan-basics-12305688-network2.png)
 ![gns](./images/Vlan-Basics-12305688-ports.png)
-![gns](./images/Vlan-Basics-12305688-gns3project2.png)
+![gns](./images/Vlan-Router-12305688-gns3project2.png)
