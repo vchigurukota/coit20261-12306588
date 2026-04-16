@@ -23,8 +23,12 @@ Fig6-Tells about IP address in host3
 Fig7-Tells about IP address in host4
 
 
+# Task 2: Testing Network Connectivity and Delay with Ping
+
+
 ![gns](./images/Ping-Basics-12305688-simple.png..png)
 Fig8-Tells about pig command output1
+
 
 ![gns](./images/Ping-Basics-12305688-error.png..png)
 Fig9-Tells about pig command output2
