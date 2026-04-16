@@ -3,7 +3,7 @@
 ![gns](./images/Setting-IP-12305688-network2.png.png)
 ![gns](./images/Setting-IP-12305688-host1.png.png)
 ![gns](./images/Setting-IP-12305688-host2.png.png)
-![gns](./images/Setting-IP-12305688-host3.png.png)
+![gns](./images/Setting-IP-12305688-host3.png)
 ![gns](./images/Setting-IP-12305688-host4.png.png)
 ![gns](./images/Ping-Basics-12305688-options.png.png)
 ![gns](./images/Ping-Basics-12305688-error.png.png)
