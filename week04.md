@@ -1,1 +1,1 @@
-![gns](./images/week4 task1 project.png)
+![gns](./images/images/week4 task1 project.png)
