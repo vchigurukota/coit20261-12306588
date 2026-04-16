@@ -1,1 +1,5 @@
 ![gns](./images/view-routes-12305688-gns3project.png)
+![gns](./images/view-routes-12305688-host1.png)
+![gns](./images/view-routes-12305688-host3.png)
+![gns](./images/view-routes-12305688-ping.png)
+![gns](./images/view-routes-12305688-gns3project.png)
